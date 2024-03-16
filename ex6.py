@@ -11,6 +11,8 @@ while True:
     cubic_root = user_input ** (1/3)
     # we state that if the cubic root to the power 3 is not equal to original input, it is not perfect cube
     # we use this as stating equality ends up in errors. I would appreciate help in improving this.
+    # Also this is not accepting some perfect cubes as perfect cubes, eventhough they are that. Even cbrt function did not help me.
+    # Any help would be greatly appreciated. I dont know where I went wrong.
     if cubic_root ** 3 != user_input:
         print('not a perfect cube')
     else:
