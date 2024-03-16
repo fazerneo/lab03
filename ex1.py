@@ -18,3 +18,5 @@ for char in original_str:
 
 # now I print the reversed string outside the loop so that i only have the final result     
 print(reversed_string)
+
+print(reversed_string == original_str[::-1])
