@@ -1,5 +1,6 @@
 # lab03
-Week 3 python principles and programming lab
+Week 3 python principles and programming lab.
+
 Questions:
 Ex1. Write a program that reads a string and reverses it. Your program must be able to save the new reversed string in another variable. You must use "for loop" and indexing to accomplish this task. Compare your reversed string with the reversed string produced using the built-in syntax such as s[: : -1] to see if they look the same (using comparison operator "==").
 
